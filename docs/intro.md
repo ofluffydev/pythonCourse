@@ -22,8 +22,8 @@ ___
    - [Running Python code](introduction-to-python/running-python-code)
    - [Python IDEs and text editors](introduction-to-python/python-ides-and-text-editors)
 
-2. Basic Python Syntax
-   - Variables and data types
+2. [Basic Python Syntax](/docs/category/basic-python-syntax)
+   - [Variables and data types](basic-python-syntax/variables-and-data-types)
    - Operators
    - Comments
    - Indentation
