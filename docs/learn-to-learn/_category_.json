@@ -1,8 +1,8 @@
 {
   "label": "Learning to learn",
-  "position": 2,
+  "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Learning how you learn in order to learn more effectively."
   }
 }

@@ -6,47 +6,47 @@ sidebar_position: 2
 
 Operators in Python are special symbols or keywords that perform operations on variables and values. They're fundamental to programming and are used to manipulate data, perform calculations, and make comparisons. Let's break down the main types of operators in Python with examples and real-life use cases.
 
-1. Arithmetic Operators:
+## Arithmetic Operators
 These perform basic mathematical operations.
+    
+   - Addition (+): Adds two numbers
+   - Subtraction (-): Subtracts the right operand from the left 
+   - Multiplication (*): Multiplies two numbers 
+   - Division (/): Divides the left operand by the right (always results in a float)
+   - Floor Division (//): Divides and rounds down to the nearest integer 
+   - Modulus (%): Returns the remainder of a division 
+   - Exponentiation (**): Raises the left operand to the power of the right
+    
+   Example:
+   ```python
+   a = 10
+   b = 3
+    
+   print(a + b)  # Output: 13
+   print(a - b)  # Output: 7
+   print(a * b)  # Output: 30
+   print(a / b)  # Output: 3.3333333333333335
+   print(a // b) # Output: 3
+   print(a % b)  # Output: 1
+   print(a ** b) # Output: 1000
+   ```
+    
+   Real-life use case: Calculating total cost in a shopping cart
+   ```python
+   item1_price = 15.99
+   item2_price = 24.50
+   quantity1 = 2
+   quantity2 = 1
+   tax_rate = 0.08
+    
+   subtotal = (item1_price * quantity1) + (item2_price * quantity2)
+   tax = subtotal * tax_rate
+   total = subtotal + tax
+    
+   print(f"Total cost: ${total:.2f}")
+   ```
 
-- Addition (+): Adds two numbers
-- Subtraction (-): Subtracts the right operand from the left
-- Multiplication (*): Multiplies two numbers
-- Division (/): Divides the left operand by the right (always results in a float)
-- Floor Division (//): Divides and rounds down to the nearest integer
-- Modulus (%): Returns the remainder of a division
-- Exponentiation (**): Raises the left operand to the power of the right
-
-Example:
-```python
-a = 10
-b = 3
-
-print(a + b)  # Output: 13
-print(a - b)  # Output: 7
-print(a * b)  # Output: 30
-print(a / b)  # Output: 3.3333333333333335
-print(a // b) # Output: 3
-print(a % b)  # Output: 1
-print(a ** b) # Output: 1000
-```
-
-Real-life use case: Calculating total cost in a shopping cart
-```python
-item1_price = 15.99
-item2_price = 24.50
-quantity1 = 2
-quantity2 = 1
-tax_rate = 0.08
-
-subtotal = (item1_price * quantity1) + (item2_price * quantity2)
-tax = subtotal * tax_rate
-total = subtotal + tax
-
-print(f"Total cost: ${total:.2f}")
-```
-
-2. Comparison Operators:
+## Comparison Operators
 These compare two values and return a boolean result.
 
 - Equal to (\==)
@@ -60,7 +60,6 @@ Example:
 ```python
 x = 5
 y = 10
-
 print(x == y)  # Output: False
 print(x != y)  # Output: True
 print(x > y)   # Output: False
@@ -78,9 +77,9 @@ if purchase_amount > discount_threshold:
     print("You're eligible for a 10% discount!")
 else:
     print("Add more items to your cart for a discount.")
-```
+  ```
 
-3. Logical Operators:
+## Logical Operators:
 These perform logical operations on boolean values.
 
 - and: Returns True if both operands are True
@@ -111,7 +110,7 @@ else:
     print("Invalid username or password.")
 ```
 
-4. Assignment Operators:
+## Assignment Operators:
 These assign values to variables.
 
 - = : Simple assignment
@@ -147,7 +146,7 @@ score *= 2
 print(f"Current score: {score}")
 ```
 
-5. Identity Operators:
+## Identity Operators:
 These compare the memory locations of two objects.
 
 - is: Returns True if both operands refer to the same object
@@ -179,7 +178,7 @@ else:
     print("Attacking a different enemy")
 ```
 
-6. Membership Operators:
+## Membership Operators:
 These test for membership in a sequence (like strings, lists, or tuples).
 
 - in: Returns True if a value is found in the sequence

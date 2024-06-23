@@ -6,9 +6,9 @@ Many people will find a framework or library and immediately Google search "Tuto
 
 It's okay if you don't understand how libraries work yet, we will be revisiting this with greater depth later on.
 
-Learning to read and understand the documentation for libraries and frameworks is a crucial skill that can help you quickly adapt to new tools and avoid relying on step-by-step tutorials. By developing the ability to navigate and comprehend documentation effectively, you can easily gain a deeper understanding of how a library or framework works, making it easier to use them in your projects without the need for extensive hand-holding from 12 hour long videos and overly specific step-by-step instructions.
+Learning to read and understand the documentation for libraries and frameworks is a crucial skill that can help you quickly adapt to new tools and avoid relying on step-by-step tutorials. By developing the ability to navigate and comprehend documentation effectively, you can easily gain a deeper understanding of how a library or framework works, making it easier to use them in your projects without the need for extensive hand-holding from 12-hour long videos and overly specific step-by-step instructions.
 
-Remember this doesn't mean memorize every single framework's syntax to use it, it is completely normal to revisit the documentation now and then. Doing so also helps you stay up to date if the library gets any newer updates
+Remember this doesn't mean you should memorize every single framework's syntax to use it, it is completely normal to revisit the documentation now and then. Doing so also helps you stay up to date if the library gets any newer updates
 
 Benefits of learning to read documentation:
 
@@ -16,7 +16,7 @@ Benefits of learning to read documentation:
 
 2. Comprehensive understanding: Documentation often provides a comprehensive overview of a library or framework's features, including its API, configuration options, and best practices. By reading the documentation thoroughly, you gain a deeper understanding of the tool's capabilities and limitations, allowing you to make informed decisions when using it in your projects.
 
-3. Staying up-to-date: Libraries and frameworks often evolve over time, with new features, bug fixes, and deprecations. By referring to the official documentation, you can stay informed about the latest changes and ensure that you're using the most current and recommended practices.
+3. Staying up to date: Libraries and frameworks often evolve over time, with new features, bug fixes, and deprecations. By referring to the official documentation, you can stay informed about the latest changes and ensure that you're using the most current and recommended practices.
 
 4. Problem-solving and troubleshooting: When encountering issues or errors while using a library or framework, the documentation can be an invaluable resource. It often includes troubleshooting guides, common error messages, and solutions to help you resolve problems quickly. A lot of these documentations even have community forums if you have specific questions.
 

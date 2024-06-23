@@ -80,7 +80,7 @@ person["age"] = 31
 
 ### Adding New Key-Value Pairs
 
-Simply assign a value to a new key:
+Assign a value to a new key:
 
 ```python
 person["job"] = "Engineer"

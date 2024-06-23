@@ -18,7 +18,7 @@ To install Python on your computer, follow these step-by-step instructions for y
 3. Scroll down to the "Files" section and download the appropriate installer for your system (32-bit or 64-bit).
 4. Run the installer and make sure to check the option "Add Python to PATH" during the installation process.
 5. Follow the installation wizard, choosing the default settings unless you have specific requirements.
-6. Once the installation is complete, open the Command Prompt and type `python --version` to verify that Python is installed correctly. ( If your command prompt / terminal was already open, it will need to be restarted.)
+6. Once the installation is complete, open the Command Prompt and type `python --version` to verify that Python is installed correctly. (If your command prompt / terminal was already open, it will need to be restarted.)
 
 ### macOS:
 
@@ -37,7 +37,7 @@ Python is often pre-installed on Linux systems. To check if Python is already in
 python --version
 ```
 
-If Python is not installed or you want to install a different version, follow these steps:
+If Python is not installed, or you want to install a different version, follow these steps:
 
 1. Open the terminal.
 2. Use the package manager specific to your Linux distribution to install Python. For example:
@@ -55,4 +55,4 @@ If Python is not installed or you want to install a different version, follow th
 ### Additional Steps (Optional):
 
 - If you want to install multiple versions of Python or create isolated environments, you can use tools like `pyenv` or `conda`. We will look deeper into this further on.
-- Pip usually comes pre-installed, if it isn't, install it by running `python -m ensurepip --default-pip`.
+- Pip usually comes pre-installed, if it isn't, then install it by running `python -m ensurepip --default-pip`.

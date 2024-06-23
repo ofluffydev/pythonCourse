@@ -102,8 +102,6 @@ else:
 # This will print "B grade" because score is 85, which meets the second condition
 ```
 
-3. Complex Conditions
-
 ## Logical Operators:
 - and: True if both conditions are True
 - or: True if at least one condition is True

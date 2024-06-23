@@ -4,10 +4,10 @@ description: "Strategies to improve your learning process"
 sidebar_position: 1
 ---
 
-1. **Code along with tutorials**: Follow along with video or written tutorials, typing out the code yourself to reinforce your understanding and muscle memory. I have done this many times using videos from Bro Code and freeCodeCamp on YouTube. However, make sure you avoid getting stuck in "[[Tutorial Hell]]." This course tries to push you to do your own projects later on in order to help prevent you from being stuck on tutorials.
+1. **Code along with tutorials**: Follow along with video or written tutorials, typing out the code yourself to reinforce your understanding and muscle memory. I have done this many times using videos from Bro Code and freeCodeCamp on YouTube. However, make sure you avoid getting stuck in "[[Tutorial Hell]]." This course tries to push you to do your own projects later on to help prevent you from being stuck on tutorials.
 2. **Practice coding challenges**: Solve coding challenges on platforms like LeetCode, HackerRank, or Project Euler to improve your problem-solving skills and familiarity with different programming concepts.
 3. **Build projects**: Apply your knowledge by building small projects, starting with simple programs and gradually increasing complexity as you improve. I urge you to go beyond doing the projects in the course.
-4. **Break down complex topics**: When faced with a difficult concept, break it down into smaller, more manageable parts and tackle them one at a time.
+4. **Break down complex topics**: When faced with a challenging concept, break it down into smaller, more manageable parts and tackle them one at a time.
 5. **Teach others**: Explaining programming concepts to others can deepen your own understanding and expose gaps in your knowledge.
 6. **Collaborate with peers**: Work on group projects or pair program with others to learn from their approaches and get feedback on your own code.
 7. **Use the Feynman Technique**: Pretend to teach a concept to someone else, simplifying it until you can explain it in plain terms. This helps you identify areas you need to study further.

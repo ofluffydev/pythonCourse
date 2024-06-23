@@ -6,9 +6,9 @@ sidebar_position: 3
 
 Learning the underlying computer science theory is not strictly required to become a programmer, but it can provide a strong foundation that empowers you to work with various programming languages and tools more effectively. By understanding the fundamental concepts and principles behind programming, you gain a transferable skill set that allows you to adapt quickly to new languages and frameworks, often just by learning their specific syntaxes and idioms.
 
-I feel like a lot of computer science theory is gatekept by the education system, a lot of people think you need a computer science degree to fully understand it. Well, I am here to tell you while it is nice to have, you do not actually need to go to college to learn computer science as long as you can keep yourself studying it. Don't worry! This course includes the theory side as well!
+I feel like a lot of computer science theories are gate-kept by the education system, a lot of people think you need a computer science degree to fully understand it. Well, I am here to tell you while it is nice to have, you do not need to go to college to learn computer science as long as you can keep yourself studying it. Don't worry! This course includes the theory side as well!
 
-Here's how learning computer science theory along side programming can benefit you:
+Here's how learning computer science theory alongside programming can benefit you:
 
 1. Language-agnostic knowledge: Computer science theory focuses on the core concepts and principles that are applicable across different programming languages. These include topics such as algorithms, data structures, programming paradigms (e.g., object-oriented, functional), and software design patterns. By mastering these concepts, you develop a language-agnostic understanding of programming, which enables you to grasp the fundamentals of any new language more easily.
 

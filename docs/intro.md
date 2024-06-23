@@ -17,28 +17,22 @@ The following **rules** apply to every page and topic on this platform:
 
 1. **Free**, no cost at all to the user. Knowledge should only cost effort and dedication, not money.
 2. **No advertisements or distractions whatsoever**; none of the pages have ads.
-3. **Every topic and sub-topic will have its own dedicated page/document
-   **. This way users won't have to search for hours through one page to find what they need.
-4. **Always available
-   **. Unless server outages or power surges/losses occur, this information shall be preserved. It will only be updated, never removed, and updates cannot remove a significant amount of content unless it's deemed inaccurate or flawed.
-5. **Printable
-   **. Every page will have PDFs available to print out to use for any case where the online version isn't suitable. On top of this, a ZIP archive of every page on this website will be available to download in bulk.
-6. **Accessible
-   **. The site will follow accessibility rules, knowledge shouldn't be inaccessible due to disabilities. This website will conform to the WCAG standards.
-7. **Account-less
-   **. No account required. You won't have to have any form of account to access this information, the only time you'll need one is if I ever add progress tracking and custom lessons, which probably won't be for a while.
-8. **No REQUIRED links to external tutorials and classes
-   **. There may be links to credible sources and recommended tutorials, but this course will still go over anything linked in order to ensure the rules above are protected and learners continue to have a free and convenient experience.
+3. **Every topic and subtopic will have its own dedicated page/document**. This way users won't have to search for hours through one page to find what they need.
+4. **Always available**. Unless server outages or power surges/losses occur, this information shall be preserved. It will only be updated, never removed, and updates cannot remove a significant amount of content unless it's deemed inaccurate or flawed.
+5. **Printable**. Every page will have PDFs available to print out to use for any case where the online version isn't suitable. On top of this, a ZIP archive of every page on this website will be available to download in bulk.
+6. **Accessible**. The site will follow accessibility rules, knowledge shouldn't be inaccessible due to disabilities. This website will conform to the WCAG standards.
+7. **Account-less**. No account required. You won't have to have any form of account to access this information, the only time you'll need one is if I ever add progress tracking and custom lessons, which probably won't be for a while.
+8. **No REQUIRED links to external tutorials and classes**. There may be links to credible sources and recommended tutorials, but this course will still go over anything linked to ensure the rules above are protected and learners continue to have a free and convenient experience.
 
 Good luck!
 
 ___
 
 1. [Learning to learn programming](category/learning-to-learn) - This section isn't required but may help you speed up your Python journey.
-    * [Meta learning](learn-to-learn/meta-learning) - Learning how you learn in order to speed up your own learning.
+    * [Meta learning](learn-to-learn/meta-learning) - Learning how you learn to speed up your own learning.
     * [Learning Strategies](learn-to-learn/learning-strategies) - Strategies to help you learn more effectively.
     * [Documentation](learn-to-learn/documentation) - How to read and understand documentation.
-    * [Computer Science Theory](learn-to-learn/computer-science-theory) - A quick note about computer science theory, and it's relation to this course/python.
+    * [Computer Science Theory](learn-to-learn/computer-science-theory) - A quick note about computer science theory, and its relation to this course/python.
 
 2. [Introduction to Python](category/introduction-to-python) - This section will go over what Python is, how to install it, and how to run Python code.
     - [What is Python](introduction-to-python/what-is-python) - A brief overview of Python and its features.
@@ -60,7 +54,7 @@ ___
     - [String Creation and Indexing](strings-in-python/string-creation-and-indexing) - Creating strings and accessing individual characters.
     - [String Slicing](strings-in-python/string-slicing) - Extracting substrings from strings.
     - [String Methods](strings-in-python/string-methods) - Commonly used string methods for text manipulation.
-    - [String Concatenation](strings-in-python/string-concatenation) - Combining strings together.
+    - [String Concatenation](strings-in-python/string-concatenation) - Combining strings.
     - [String Formatting](strings-in-python/string-formatting) - Formatting strings for output.
     - [String Immutability](strings-in-python/string-immutability) - Understanding string immutability in Python.
     - [Escape Characters](strings-in-python/escape-characters) - Special characters used in strings.
@@ -82,13 +76,13 @@ ___
     - [Parameters and arguments](functions/parameters-and-arguments) - Understanding function parameters and arguments.
     - [Return values](functions/return-values) - Using return values to send data back from functions.
     - [Scope and global variables](functions/scope-and-global-variables) - Understanding variable scope in Python.
-    - Lambda functions
+    - [Lambda functions](functions/lambda-functions) - Creating anonymous functions with lambda.
 
-8. Modules and Packages
-    - Importing modules
-    - Creating modules
-    - Python standard library
-    - Installing and using external packages (pip)
+8. [Modules and Packages](category/modules-and-packages-in-python) - This section will cover modules and packages in Python, including importing modules, creating modules, the Python standard library, and installing and using external packages (pip).
+    - [Importing modules](modules-and-packages/importing-modules) - How to import modules in Python.
+    - [Creating modules](modules-and-packages/creating-modules) - Creating your own modules in Python.
+    - [Python standard library](modules-and-packages/python-standard-library) - An overview of the Python standard library.
+    - [Installing and using external packages (pip)](modules-and-packages/installing-external-packages) - How to install and use external packages in Python.
 
 9. File Handling
     - Opening and closing files
