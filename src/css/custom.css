@@ -5,7 +5,9 @@
  */
 
 /* You can override the default Infima variables here. */
+
 :root {
+    --ifm-link-color: #a062df;
     --ifm-color-primary: #6a1b9a;
     --ifm-color-primary-dark: #4a148c;
     --ifm-color-primary-darker: #38006b;
@@ -19,14 +21,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-   .hero__title {
-        color: #fff;
-    }
-
-    .hero__subtitle {
-        color: #fff;
-    }
-
+    --ifm-link-color: #c798ff;
     --ifm-color-primary: #6a1b9a;
     --ifm-color-primary-dark: #4a148c;
     --ifm-color-primary-darker: #38006b;
@@ -35,4 +30,12 @@
     --ifm-color-primary-lighter: #8e52ce;
     --ifm-color-primary-lightest: #a062df;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+[data-theme='dark'] .hero__title {
+    color: #fff;
+}
+
+[data-theme='dark'] .hero__subtitle {
+    color: #fff;
 }

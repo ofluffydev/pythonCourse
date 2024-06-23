@@ -1,9 +1,9 @@
 ---
 title: "Big O Notation"
-description: "A comprehensive guide to Big O notation, a fundamental concept in computer science used to describe the performance or complexity of an algorithm."
+description: "Detailed guide on Big O notation, a fundamental concept in computer science used to describe the performance or complexity of an algorithm."
 ---
 
-# Big O Notation: A Comprehensive Guide
+# Big O Notation
 
 ## Introduction to Big O Notation
 

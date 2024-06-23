@@ -4,7 +4,7 @@ sidebar_position: 3
 description: "Learn how to use sets in Python, including creation, operations, and common use cases."
 ---
 
-# Python Sets: A Comprehensive Guide
+# Python Sets
 
 ## What are Sets?
 

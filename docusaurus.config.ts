@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-    title: 'Python Course',
+    title: 'Fluffy\'s Python Course',
     tagline: 'A free python course for everyone',
     favicon: 'img/favicon.ico',
     organizationName: 'Frisk Technologies',
