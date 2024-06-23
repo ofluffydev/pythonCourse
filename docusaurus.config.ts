@@ -42,16 +42,18 @@ const config: Config = {
 
     themeConfig: {
         // Replace with your project's social card
-        image: 'img/docusaurus-social-card.jpg', navbar: {
+        image: 'img/fluffy-social-card.jpg', navbar: {
             title: 'Fluffy\'s Python Course', logo: {
-                alt: 'My Site Logo', src: 'img/Logo.png',
-            }, items: [{
-                type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: 'Tutorial',
+                alt: 'Fluffy\'s logo', src: 'img/Logo.png',
+            }, hideOnScroll: true, items: [{
+                type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: 'Course',
             },],
         }, footer: {
             style: 'dark', links: [{
-                title: 'Docs', items: [{
-                    label: 'Tutorial', to: '/docs/intro',
+                title: 'Site', items: [{
+                    label: 'Home', to: '/',
+                }, {
+                    label: 'Course', to: '/docs/intro',
                 },],
             }, {
                 title: 'Community', items: [{

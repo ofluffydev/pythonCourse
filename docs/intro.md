@@ -26,19 +26,19 @@ Good luck!
 
 ___
 
-0. [ Learning to learn programming](learn-to-learn/meta-learning) - This section isn't required but may help you speed up your Python journey.
+1. [Learning to learn programming](category/learn-to-learn) - This section isn't required but may help you speed up your Python journey.
     * [Meta learning](learn-to-learn/meta-learning) - Learning how you learn in order to speed up your own learning.
     * [Learning Strategies](learn-to-learn/learning-strategies) - Strategies to help you learn more effectively.
     * [Documentation](learn-to-learn/documentation) - How to read and understand documentation.
     * [Computer Science Theory](learn-to-learn/computer-science-theory) - A quick note about computer science theory, and it's relation to this course/python.
 
-1. [Introduction to Python](/docs/category/introduction-to-python) - This section will go over what Python is, how to install it, and how to run Python code.
+2. [Introduction to Python](category/introduction-to-python) - This section will go over what Python is, how to install it, and how to run Python code.
    - [What is Python](introduction-to-python/what-is-python) - A brief overview of Python and its features.
    - [Installing Python](introduction-to-python/installing-python) - How to install Python on your computer.
    - [Running Python code](introduction-to-python/running-python-code) - Different ways to run Python code.
    - [Python IDEs and text editors](introduction-to-python/python-ides-and-text-editors) - Popular Python Integrated Development Environments (IDEs) and text editors.
 
-2. [Basic Python Syntax](/docs/category/basic-python-syntax) - This section will cover the basic syntax of Python, including variables, data types, operators, comments, indentation, and basic input and output.
+3. [Basic Python Syntax](category/basic-python-syntax) - This section will cover the basic syntax of Python, including variables, data types, operators, comments, indentation, and basic input and output.
    - [Variables and data types](basic-python-syntax/variables-and-data-types) - An introduction to variables and data types in Python.
    - [Operators](basic-python-syntax/operators) - Operators in Python, what they are, and how to use them.
    - [Comments](basic-python-syntax/comments) - Utilizing comments in Python to make your code more readable.
@@ -47,106 +47,117 @@ ___
    - [Basic python challenges](basic-python-syntax/basic-python-challenges) - Basic Python challenges to practice and reinforce your understanding of fundamental Python concepts.
    - [Basic Challenge Answers](basic-python-syntax/basic-challenge-answers) - Answer to the basic Python challenges above.
 
-3. [Control Flow](/docs/category/control-flow-in-python) - This section will cover control flow statements in Python, including conditional statements (if, elif, else), loops (for, while), and break, continue, and pass statements.
+4. [String in Python ](category/strings-in-python) - This section will cover strings in Python, including string creation, indexing, slicing, methods, concatenation, formatting, immutability, and escape characters.
+   - [Introduction to Strings](strings-in-python/introduction-to-strings) - An introduction to strings in Python.
+   - [String Creation and Indexing](strings-in-python/string-creation-and-indexing) - Creating strings and accessing individual characters.
+   - [String Slicing](strings-in-python/string-slicing) - Extracting substrings from strings.
+   - [String Methods](strings-in-python/string-methods) - Commonly used string methods for text manipulation.
+   - [String Concatenation](strings-in-python/string-concatenation) - Combining strings together.
+   - [String Formatting](strings-in-python/string-formatting) - Formatting strings for output.
+   - [String Immutability](strings-in-python/string-immutability) - Understanding string immutability in Python.
+   - [Escape Characters](strings-in-python/escape-characters) - Special characters used in strings.
+   - [Multiline Strings](strings-in-python/multiline-strings) - Creating strings that span multiple lines.
+
+5. [Control Flow](category/control-flow-in-python) - This section will cover control flow statements in Python, including conditional statements (if, elif, else), loops (for, while), and break, continue, and pass statements.
    - [Conditional statements (if, elif, else)](control-flow/conditional-statements) - Using conditional statements to control the flow of your program.
    - [Loops (for, while)](control-flow/loops) - Using loops to repeat code blocks.
    - [Break, continue, and pass statements](control-flow/break-continue-and-pass-statements) - Special statements to control loop execution.
 
-4. Data Structures
-   - Lists
-   - Tuples
-   - Sets
-   - Dictionaries
+6. [Python Built-in Collection Types](category/python-built-in-collection-types) - This section will cover the built-in collection types in Python, including lists, tuples, sets, and dictionaries.
+   - [Lists](python-built-in-collection-types/lists) - Creating and manipulating lists in Python.
+   - [Tuples](python-built-in-collection-types/tuples) - Creating and working with tuples in Python.
+   - [Sets](python-built-in-collection-types/sets) - Working with sets in Python.
+   - [Dictionaries](python-built-in-collection-types/dictionaries) - Using dictionaries to store key-value pairs.
 
-5. Functions
+7. Functions
    - Defining functions
    - Parameters and arguments
    - Return values
    - Scope and global variables
    - Lambda functions
 
-6. Modules and Packages
+8. Modules and Packages
    - Importing modules
    - Creating modules
    - Python standard library
    - Installing and using external packages (pip)
 
-7. File Handling
+9. File Handling
    - Opening and closing files
    - Reading from files
    - Writing to files
    - Working with CSV and JSON files
 
-8. Exception Handling
-   - Try, except, and finally blocks
-   - Raising exceptions
-   - Creating custom exceptions
+10. Exception Handling
+    - Try, except, and finally blocks
+    - Raising exceptions
+    - Creating custom exceptions
 
-9. Object-Oriented Programming (OOP)
-   - Classes and objects
-   - Attributes and methods
-   - Inheritance and polymorphism
-   - Encapsulation and data hiding
+11. Object-Oriented Programming (OOP)
+    - Classes and objects
+    - Attributes and methods
+    - Inheritance and polymorphism
+    - Encapsulation and data hiding
 
-10. Advanced Topics
+12. Advanced Topics
     - Decorators
     - Generators
     - Context managers
     - Meta classes
     - Regular expressions
 
-11. Data Analysis and Visualization
+13. Data Analysis and Visualization
     - NumPy
     - Pandas
     - Matplotlib
     - Seaborn
 
-12. Web Development
+14. Web Development
     - Flask
     - Django
     - Web scraping with BeautifulSoup and Scrapy
     - API development and consumption
 
-13. GUI Development
+15. GUI Development
     - Tkinter
     - PyQt
     - Kivy
 
-14. Database Programming
+16. Database Programming
     - SQLite
     - MySQL
     - PostgreSQL
     - Object-Relational Mapping (ORM) with SQLAlchemy
 
-15. Testing and Debugging
+17. Testing and Debugging
     - Unit testing with unittest and pytest
     - Debugging techniques
     - Logging
     - Profiling and optimization
 
-16. Concurrency and Parallelism
+18. Concurrency and Parallelism
     - Multithreading
     - Multiprocessing
     - Asynchronous programming with asyncio
 
-17. Machine Learning and Data Science
+19. Machine Learning and Data Science
     - Scikit-learn
     - TensorFlow
     - Keras
     - Natural Language Processing (NLP) with NLTK and spaCy
 
-18. Game Development
+20. Game Development
     - Pygame
     - Pyglet
     - Panda3D
 
-19. Network Programming
+21. Network Programming
     - Sockets
     - HTTP and HTTPS
     - Email handling
     - SSH and FTP
 
-20. Miscellaneous Topics
+22. Miscellaneous Topics
     - Working with date and time
     - Random number generation
     - Cryptography
