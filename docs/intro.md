@@ -47,10 +47,10 @@ ___
    - [Basic python challenges](basic-python-syntax/basic-python-challenges) - Basic Python challenges to practice and reinforce your understanding of fundamental Python concepts.
    - [Basic Challenge Answers](basic-python-syntax/basic-challenge-answers) - Answer to the basic Python challenges above.
 
-3. [Control Flow](/docs/category/control-flow) - This section will cover control flow statements in Python, including conditional statements (if, elif, else), loops (for, while), and break, continue, and pass statements.
+3. [Control Flow](/docs/category/control-flow-in-python) - This section will cover control flow statements in Python, including conditional statements (if, elif, else), loops (for, while), and break, continue, and pass statements.
    - [Conditional statements (if, elif, else)](control-flow/conditional-statements) - Using conditional statements to control the flow of your program.
    - [Loops (for, while)](control-flow/loops) - Using loops to repeat code blocks.
-   - [Break, continue, and pass statements](control-flow/break-continue-pass) - Special statements to control loop execution.
+   - [Break, continue, and pass statements](control-flow/break-continue-and-pass-statements) - Special statements to control loop execution.
 
 4. Data Structures
    - Lists
