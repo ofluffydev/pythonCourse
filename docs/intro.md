@@ -84,11 +84,11 @@ ___
     - [Python standard library](modules-and-packages/python-standard-library) - An overview of the Python standard library.
     - [Installing and using external packages (pip)](modules-and-packages/installing-external-packages) - How to install and use external packages in Python.
 
-9. File Handling
-    - Opening and closing files
-    - Reading from files
-    - Writing to files
-    - Working with CSV and JSON files
+9. [File Handling](category/file-handling-with-python) - This section will cover file handling in Python, including opening and closing files, reading from files, writing to files, and working with CSV and JSON files.
+    - [Opening and closing files](file-handling/opening-and-closing-files) - How to open and close files in Python using built-in functions.
+    - [Reading from files](file-handling/reading-from-files) - Reading data from files in Python.
+    - [Writing to files](file-handling/writing-to-files) - Writing data to files in Python using built-in functions.
+    - [Working with CSV and JSON files](file-handling/working-with-CSV-and-JSON-files) - How to work with CSV and JSON files in Python using built-in modules.
 
 10. Exception Handling
     - Try, except, and finally blocks

@@ -27,7 +27,6 @@ function HomepageHeader() {
 }
 
 export default function Home(): ReactElement {
-    const {siteConfig} = useDocusaurusContext();
     return (<Layout
             title={`Home Page`}
             description="Free python course for all made by Fluffy">
