@@ -2,7 +2,7 @@
 title: "Documentation"
 sidebar_position: 3
 ---
-Many people will find a framework or library and immediately Google search "Tutorial for" rather than reading the actual documentation. You should understand your programming language at a level that all you need is the API reference and docs, with maybe a few small tutorials to begin with. This is a great thing to help you stay out of [[Tutorial Hell]].
+Many people will find a framework or library and immediately Google search "Tutorial for" rather than reading the actual documentation. You should understand your programming language at a level that all you need is the API reference and docs, with maybe a few small tutorials to begin with. This is a great thing to help you stay out of [Tutorial Hell](/docs/universal-topics/tutorial-hell).
 
 It's okay if you don't understand how libraries work yet, we will be revisiting this with greater depth later on.
 

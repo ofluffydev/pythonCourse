@@ -19,7 +19,7 @@ Many text editors and Integrated Development Environments (IDEs) provide built-i
 
 These editors and IDEs often provide a "Run" button or menu option to execute the Python code directly within the editor. However, it's important to note that relying solely on these built-in run features may limit your understanding of how Python code is executed from the command line.
 
-I will go more in depth on choosing an editor/IDE in [[Python IDEs and text editors ]]
+I will go more in depth on choosing an editor/IDE in [Python IDEs and text editors](/docs/introduction-to-python/python-ides-and-text-editors.md).
 
 ### Running Python Code from the Command Line Interface (CLI):
 

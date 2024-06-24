@@ -4,7 +4,7 @@ description: "Strategies to improve your learning process"
 sidebar_position: 1
 ---
 
-1. **Code along with tutorials**: Follow along with video or written tutorials, typing out the code yourself to reinforce your understanding and muscle memory. I have done this many times using videos from Bro Code and freeCodeCamp on YouTube. However, make sure you avoid getting stuck in "[[Tutorial Hell]]." This course tries to push you to do your own projects later on to help prevent you from being stuck on tutorials.
+1. **Code along with tutorials**: Follow along with video or written tutorials, typing out the code yourself to reinforce your understanding and muscle memory. I have done this many times using videos from Bro Code and freeCodeCamp on YouTube. However, make sure you avoid getting stuck in "[Tutorial Hell](/docs/universal-topics/tutorial-hell)." This course tries to push you to do your own projects later on to help prevent you from being stuck on tutorials.
 2. **Practice coding challenges**: Solve coding challenges on platforms like LeetCode, HackerRank, or Project Euler to improve your problem-solving skills and familiarity with different programming concepts.
 3. **Build projects**: Apply your knowledge by building small projects, starting with simple programs and gradually increasing complexity as you improve. I urge you to go beyond doing the projects in the course.
 4. **Break down complex topics**: When faced with a challenging concept, break it down into smaller, more manageable parts and tackle them one at a time.

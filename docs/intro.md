@@ -90,10 +90,10 @@ ___
     - [Writing to files](file-handling/writing-to-files) - Writing data to files in Python using built-in functions.
     - [Working with CSV and JSON files](file-handling/working-with-CSV-and-JSON-files) - How to work with CSV and JSON files in Python using built-in modules.
 
-10. Exception Handling
-    - Try, except, and finally blocks
-    - Raising exceptions
-    - Creating custom exceptions
+10. [Exception Handling](category/handling-exceptions-in-python) - This section will cover exception handling in Python, including try, except, and finally blocks, raising exceptions, and creating custom exceptions.
+    - [Try, except, and finally blocks](exception-handling/try-except-and-finally-blocks) - Handling exceptions in Python using try, except, and finally blocks.
+    - [Raising exceptions](exception-handling/raising-exceptions) - How to raise exceptions in Python.
+    - [Creating custom exceptions](exception-handling/custom-exceptions) - Creating and using custom exceptions in Python to improve error handling and code readability.
 
 11. Object-Oriented Programming (OOP)
     - Classes and objects
