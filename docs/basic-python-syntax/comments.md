@@ -1,5 +1,5 @@
 ---
-title: "Comments in Python"
+title: "Python Comments"
 sidebar_label: "Comments"
 sidebar_position: 3
 ---

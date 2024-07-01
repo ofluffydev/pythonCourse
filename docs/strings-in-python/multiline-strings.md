@@ -4,7 +4,7 @@ sidebar_label: "Multiline Strings"
 sidebar_position: 9
 ---
 
-# Multi-line Strings in Python
+# Multi-line Strings
 
 ## What Are Multi-line Strings?
 

@@ -1,14 +1,14 @@
 ---
-title: "Indentation in Python"
+title: "Python Indentation"
 sidebar_label: "Indentation"
 sidebar_position: 4
 ---
 
+# Python Indentation
+
 Python's use of indentation is one of its most distinctive features, serving as a core part of the language's syntax rather than just a stylistic convention. This approach to code structure sets Python apart from many other programming languages, including Java. Let's explore Python's indentation rules, their benefits, and how they compare to other languages.
 
 This compares Java and Python syntax. Don't worry about understanding the Java code blocks in this section
-
-# Python Indentation:
 
 In Python, indentation is used to define code blocks. The level of indentation determines which statements are part of a particular block, such as the body of a function, loop, or conditional statement.
 
@@ -48,6 +48,7 @@ Benefits of Python's Indentation:
 Java, like many other programming languages, uses braces {} to define code blocks and doesn't rely on indentation for syntax. Here's a comparison:
 
 Java example:
+
 ```java
 public double calculateTotal(List<Item> items) {
     double total = 0;
@@ -72,26 +73,28 @@ Key differences:
 # Pros and Cons:
 
 Python's approach:
+
 + Pros:
-  - Enforces clean, readable code
-  - Reduces line noise (fewer braces and keywords)
-  - Makes nested structures visually clear
+    - Enforces clean, readable code
+    - Reduces line noise (fewer braces and keywords)
+    - Makes nested structures visually clear
 
 - Cons:
-  - Can be problematic when mixing spaces and tabs
-  - Copy-pasting code can sometimes lead to indentation errors
-  - May be challenging for beginners used to brace-based languages
+    - Can be problematic when mixing spaces and tabs
+    - Copy-pasting code can sometimes lead to indentation errors
+    - May be challenging for beginners used to brace-based languages
 
 Java's approach:
+
 + Pros:
-  - More flexible in terms of formatting
-  - Familiar to those coming from C-style syntax languages
-  - Easier to copy-paste code snippets
+    - More flexible in terms of formatting
+    - Familiar to those coming from C-style syntax languages
+    - Easier to copy-paste code snippets
 
 - Cons:
-  - Can lead to inconsistent formatting if not enforced
-  - Requires more syntactic elements, potentially cluttering code
-  - Mismatched braces can cause hard-to-spot errors
+    - Can lead to inconsistent formatting if not enforced
+    - Requires more syntactic elements, potentially cluttering code
+    - Mismatched braces can cause hard-to-spot errors
 
 # Adapting to Python's Indentation:
 

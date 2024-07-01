@@ -5,7 +5,7 @@ sidebar_position: 7
 description: "Learn about string immutability in Python, including its implications and best practices."
 ---
 
-# Python String Immutability: Understanding and Implications
+# Python String Immutability
 
 ## Introduction to String Immutability
 

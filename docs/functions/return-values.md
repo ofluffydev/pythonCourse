@@ -1,5 +1,5 @@
 ---
-title: "Return Values in Python Functions"
+title: "Return ValuesFunctions"
 description: "Learn how to use return values in Python functions."
 sidebar_position: 3
 ---

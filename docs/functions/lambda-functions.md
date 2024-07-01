@@ -1,5 +1,5 @@
 ---
-title: "Lambda Functions in Python"
+title: "Lambda Functions"
 description: "Learn how to create and use lambda functions in Python."
 sidebar_position: 5
 ---

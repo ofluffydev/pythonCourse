@@ -4,7 +4,7 @@ sidebar_label: "Introduction to Strings"
 sidebar_position: 1
 ---
 
-# Comprehensive Guide to Strings in Python
+# Strings (str)
 
 We mentioned strings in the [Variables and Data Types](../basic-python-syntax/variables-and-data-types) section, but now we'll explore them in more depth. Strings are sequences of characters used to represent text. They are immutable, meaning once a string is created, its contents cannot be changed.
 

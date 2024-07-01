@@ -1,7 +1,7 @@
 ---
 title: "Computer Science Theory"
 description: "The importance of learning computer science theory alongside programming"
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 Learning the underlying computer science theory is not strictly required to become a programmer, but it can provide a strong foundation that empowers you to work with various programming languages and tools more effectively. By understanding the fundamental concepts and principles behind programming, you gain a transferable skill set that allows you to adapt quickly to new languages and frameworks, often just by learning their specific syntaxes and idioms.

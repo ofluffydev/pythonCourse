@@ -1,5 +1,5 @@
 ---
-title: "Scope and Global Variables in Python"
+title: "Scope and Global Variables"
 description: "Variable scope and global variables in Python."
 sidebar_position: 4
 ---

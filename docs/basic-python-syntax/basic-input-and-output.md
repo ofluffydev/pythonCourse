@@ -1,10 +1,10 @@
 ---
-title: "Basic Input and Output in Python"
+title: "Basic Input and Output"
 sidebar_label: "Basic Input and Output"
 sidebar_position: 5
 ---
 
-# Introduction
+# Basic Input and Output
 Input and output (I/O) operations are fundamental in programming. They allow your program to interact with the user, receive data, and display results. In Python, we have simple and powerful tools for handling I/O operations.
 
 Why we use I/O:

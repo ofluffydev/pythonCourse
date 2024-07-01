@@ -2,7 +2,7 @@
 title: "String Slicing"
 sidebar_label: "String Slicing"
 description: "Learn how to extract substrings from strings using slicing in Python."
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # String Slicing

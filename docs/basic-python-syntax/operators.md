@@ -1,5 +1,5 @@
 ---
-title: "Operators in Python"
+title: "Operators"
 sidebar_label: "Operators"
 sidebar_position: 2
 ---

@@ -3,7 +3,7 @@ title: "String Creation and Indexing"
 sidebar_label: "String Creation and Indexing"
 sidebar_position: 2
 ---
-# String Creation and Indexing in Python
+# String Creation and Indexing
 
 ## String Creation
 

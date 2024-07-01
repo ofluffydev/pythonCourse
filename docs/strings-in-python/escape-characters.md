@@ -5,7 +5,7 @@ description: "Learn how to escape characters in Python."
 sidebar_position: 8
 ---
 
-# Escape Characters in Python
+# Escape Characters
 
 ## What Are Escape Characters?
 

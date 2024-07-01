@@ -1,5 +1,5 @@
 ---
-title: "Parameters and Arguments in Python Functions"
+title: "Parameters and Arguments in Functions"
 description: "Learn how to define and use parameters and arguments in Python functions."
 sidebar_position: 2
 ---

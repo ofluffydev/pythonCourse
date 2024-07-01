@@ -1,5 +1,5 @@
 ---
-title: "Control flow in Python"
+title: "Break, continue, and pass statements"
 description: "Using break, continue, and pass statements to control the flow of your loops and functions."
 sidebar_position: 3
 ---

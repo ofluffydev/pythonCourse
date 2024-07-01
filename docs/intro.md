@@ -17,12 +17,18 @@ The following **rules** apply to every page and topic on this platform:
 
 1. **Free**, no cost at all to the user. Knowledge should only cost effort and dedication, not money.
 2. **No advertisements or distractions whatsoever**; none of the pages have ads.
-3. **Every topic and subtopic will have its own dedicated page/document**. This way users won't have to search for hours through one page to find what they need.
-4. **Always available**. Unless server outages or power surges/losses occur, this information shall be preserved. It will only be updated, never removed, and updates cannot remove a significant amount of content unless it's deemed inaccurate or flawed.
-5. **Printable**. Every page will have PDFs available to print out to use for any case where the online version isn't suitable. On top of this, a ZIP archive of every page on this website will be available to download in bulk.
-6. **Accessible**. The site will follow accessibility rules, knowledge shouldn't be inaccessible due to disabilities. This website will conform to the WCAG standards.
-7. **Account-less**. No account required. You won't have to have any form of account to access this information, the only time you'll need one is if I ever add progress tracking and custom lessons, which probably won't be for a while.
-8. **No REQUIRED links to external tutorials and classes**. There may be links to credible sources and recommended tutorials, but this course will still go over anything linked to ensure the rules above are protected and learners continue to have a free and convenient experience.
+3. **Every topic and subtopic will have its own dedicated page/document
+   **. This way users won't have to search for hours through one page to find what they need.
+4. **Always available
+   **. Unless server outages or power surges/losses occur, this information shall be preserved. It will only be updated, never removed, and updates cannot remove a significant amount of content unless it's deemed inaccurate or flawed.
+5. **Printable
+   **. Every page will have PDFs available to print out to use for any case where the online version isn't suitable. On top of this, a ZIP archive of every page on this website will be available to download in bulk.
+6. **Accessible
+   **. The site will follow accessibility rules, knowledge shouldn't be inaccessible due to disabilities. This website will conform to the WCAG standards.
+7. **Account-less
+   **. No account required. You won't have to have any form of account to access this information, the only time you'll need one is if I ever add progress tracking and custom lessons, which probably won't be for a while.
+8. **No REQUIRED links to external tutorials and classes
+   **. There may be links to credible sources and recommended tutorials, but this course will still go over anything linked to ensure the rules above are protected and learners continue to have a free and convenient experience.
 
 Good luck!
 
@@ -95,11 +101,30 @@ ___
     - [Raising exceptions](exception-handling/raising-exceptions) - How to raise exceptions in Python.
     - [Creating custom exceptions](exception-handling/custom-exceptions) - Creating and using custom exceptions in Python to improve error handling and code readability.
 
-11. Object-Oriented Programming (OOP)
+11. [Object-Oriented Programming (OOP)](category/object-oriented-programming-in-python) - This section will cover object-oriented programming (OOP) in Python, including classes and objects, attributes and methods, inheritance and polymorphism, encapsulation and data hiding, composition and aggregation, and design patterns in OOP.
     - Classes and objects
+        - Class definition and instantiation
+        - Instance variables vs. class variables
     - Attributes and methods
+        - Instance methods, class methods, and static methods
+        - Property decorators (getters, setters, deleters)
     - Inheritance and polymorphism
+        - Single inheritance
+        - Multiple inheritance
+        - Method overriding and super()
+        - Abstract base classes and interfaces
     - Encapsulation and data hiding
+        - Private and protected attributes
+        - Name mangling
+    - Composition and aggregation
+    - Magic methods (dunder methods)
+        - __init__, __str__, __repr__, __len__, etc.
+    - Metaclasses
+    - Object lifecycle and garbage collection
+    - Design patterns in OOP
+        - Singleton, Factory, Observer, etc.
+    - Exception handling in OOP
+    - Type hinting and OOP
 
 12. Advanced Topics
     - Decorators

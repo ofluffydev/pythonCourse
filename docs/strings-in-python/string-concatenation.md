@@ -1,11 +1,11 @@
 ---
 title: "String Concatenation"
 sidebar_label: "String Concatenation"
-sidebar_position: 3
+sidebar_position: 5
 description: "Learn how to combine strings using concatenation in Python."
 ---
 
-# String Concatenation in Python
+# String Concatenation
 
 ## Introduction to String Concatenation
 
