@@ -102,13 +102,13 @@ ___
     - [Creating custom exceptions](exception-handling/custom-exceptions) - Creating and using custom exceptions in Python to improve error handling and code readability.
 
 11. [Object-Oriented Programming (OOP)](category/object-oriented-programming-in-python) - This section will cover object-oriented programming (OOP) in Python, including classes and objects, attributes and methods, inheritance and polymorphism, encapsulation and data hiding, composition and aggregation, and design patterns in OOP.
-    - Classes and objects
-        - Class definition and instantiation
-        - Instance variables vs. class variables
-    - Attributes and methods
-        - Instance methods, class methods, and static methods
-        - Property decorators (getters, setters, deleters)
-    - Inheritance and polymorphism
+    - [Classes and objects](/docs/category/classes-and-objects-in-python)
+        - [Class definition and instantiation](/docs/oop/classes-and-objects/class-definition-and-instantiation)
+        - [Instance variables vs. class variables](/docs/oop/classes-and-objects/instance-variables-vs-class-variables)
+    - [Attributes and methods](/docs/category/attributes-and-methods)
+        - [Instance methods, class methods, and static methods](/docs/oop/attributes-and-methods/instance-methods-class-methods-and-static-methods)
+        - [Property decorators (getters, setters, deleters)](/docs/oop/attributes-and-methods/property-decorators)
+    - [Inheritance and polymorphism](category/inheritance-and-polymorphism)
         - Single inheritance
         - Multiple inheritance
         - Method overriding and super()

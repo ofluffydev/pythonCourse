@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ## Introduction
 
-In object-oriented programming, a class is like a blueprint or a cookie cutter for creating objects. Just as a blueprint defines the structure and features of a building, a class defines the attributes and behaviors that the objects of that class will have. In this lesson, we'll explore how to define a class and create instances (objects) of that class in Python.
+In object-oriented programming, a class is like a blueprint or a cookie cutter for creating objects. Just as a blueprint defines the structure and features of a building, a class defines the attributes and behaviors that the objects of that class will have. In this lesson, we'll explore how to define a class and create instances (objects) of that class in Python.give
 
 ## Defining a Class
 
