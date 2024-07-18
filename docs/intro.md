@@ -66,7 +66,7 @@ ___
     - [Escape Characters](strings-in-python/escape-characters) - Special characters used in strings.
     - [Multiline Strings](strings-in-python/multiline-strings) - Creating strings that span multiple lines.
 
-5. [Control Flow](category/control-flow-in-python) - This section will cover control flow statements in Python, including conditional statements (if, elif, else), loops (for, while), and break, continue, and pass statements.
+5. [Control Flow](category/control-flow) - This section will cover control flow statements in Python, including conditional statements (if, elif, else), loops (for, while), and break, continue, and pass statements.
     - [Conditional statements (if, elif, else)](control-flow/conditional-statements) - Using conditional statements to control the flow of your program.
     - [Loops (for, while)](control-flow/loops) - Using loops to repeat code blocks.
     - [Break, continue, and pass statements](control-flow/break-continue-and-pass-statements) - Special statements to control loop execution.
@@ -101,7 +101,7 @@ ___
     - [Raising exceptions](exception-handling/raising-exceptions) - How to raise exceptions in Python.
     - [Creating custom exceptions](exception-handling/custom-exceptions) - Creating and using custom exceptions in Python to improve error handling and code readability.
 
-11. [Object-Oriented Programming (OOP)](category/object-oriented-programming-in-python) - This section will cover object-oriented programming (OOP) in Python, including classes and objects, attributes and methods, inheritance and polymorphism, encapsulation and data hiding, composition and aggregation, and design patterns in OOP.
+11. [Object-Oriented Programming (OOP)](category/python-object-oriented-programming) - This section will cover object-oriented programming (OOP) in Python, including classes and objects, attributes and methods, inheritance and polymorphism, encapsulation and data hiding, composition and aggregation, and design patterns in OOP.
     - [Classes and objects](/docs/category/classes-and-objects-in-python)
         - [Class definition and instantiation](/docs/oop/classes-and-objects/class-definition-and-instantiation)
         - [Instance variables vs. class variables](/docs/oop/classes-and-objects/instance-variables-vs-class-variables)
